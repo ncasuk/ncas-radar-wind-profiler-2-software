@@ -1,7 +1,7 @@
 ncas-radar-wind-profiler-2-software
 ===================================
 
-This repo contains code and scripts to make AMOF v2 netCDF files for the ncas-radar-wind-profiler-1 instrument from trw files.
+This repo contains code and scripts to make AMOF v2 netCDF files for the ncas-radar-wind-profiler-2 instrument from trw files.
 
 Requirements
 ------------
